@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Заголовок</string>
+    <string name="description">Опис</string>
+    <string name="additionalInfo">Додаткова інформація</string>
+    <string name="image_description">Опис зображення</string>
+    <string name="hello_blank_fragment">Привіт, це порожній фрагмент!</string>
+</resources>
